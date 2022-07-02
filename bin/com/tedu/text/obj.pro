@@ -1,0 +1,9 @@
+map=com.tedu.element.Maps
+hostage=com.tedu.element.Hostage
+prop=com.tedu.element.Prop
+play=com.tedu.element.Play
+playfire=com.tedu.element.PlayFire
+enemy=com.tedu.element.Enemy
+enemyfire=com.tedu.element.EnemyFire
+die=com.tedu.element.Die
+boss=com.tedu.element.Boss
